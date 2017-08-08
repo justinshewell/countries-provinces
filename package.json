@@ -1,0 +1,17 @@
+{
+  "name": "countries-provinces",
+  "version": "0.0.1",
+  "description": "country, state and province lists",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/elgambet/countries-provinces.git"
+  },
+  "homepage": "https://github.com/elgambet/countries-provinces",
+  "keywords": ["country", "state", "province", "geo", "data"],
+  "author": {
+    "name": "Pablo Gambetta",
+    "email": "gambeita@gmai.com"
+  },
+  "license": "MIT"
+}
