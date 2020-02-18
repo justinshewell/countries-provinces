@@ -7,7 +7,7 @@
 Countries list
 
 ``` js
-const countriesProvinces = require('country-provinces');
+const countriesProvinces = require('countries-provinces');
 console.log(countriesProvinces.countries);
 ```
 
@@ -16,7 +16,7 @@ console.log(countriesProvinces.countries);
 Provincies list
 
 ``` js
-const countriesProvinces = require('country-provinces');
+const countriesProvinces = require('countries-provinces');
 console.log(countriesProvinces.provinces);
 ```
 
